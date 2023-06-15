@@ -2,3 +2,7 @@
 zkouska zaskouska
 
 
+# Popis projektu 
+bbla bla bla
+
+# Instalace knihoven
